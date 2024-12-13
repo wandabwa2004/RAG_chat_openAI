@@ -2,26 +2,24 @@ A secure, privacy-focused Retrieval-Augmented Generation (RAG) system designed f
 
 **Features**
 
-Document Upload:
+ **Document Upload:**
+ 
+   -  Upload and process documents in supported formats (PDFs, Word files, and plain text files).
 
-- Upload and process documents in supported formats (PDFs, Word files, and plain text files).
+**Text Extraction:**
 
-Text Extraction:
+  - Automatically extract and preprocess text from uploaded documents.
 
-Automatically extract and preprocess text from uploaded documents.
+**Vector Store for Retrieval:**
 
-Vector Store for Retrieval:
+  - Stores document content as embeddings and retrieves the most relevant sections for user queries.
 
-Stores document content as embeddings and retrieves the most relevant sections for user queries.
+**Interactive Q&A:**
 
-Interactive Q&A:
+  - Provides accurate answers to user queries based on document context.
 
-Provides accurate answers to user queries based on document context.
+**Streamlit Interface:**
+  - A user-friendly interface for managing documents and querying.
 
-Streamlit Interface:
-
-A user-friendly interface for managing documents and querying.
-
-Local Processing:
-
-Ensures maximum privacy by processing data locally.
+**Local Processing:**
+  - Ensures maximum privacy by processing data locally.
