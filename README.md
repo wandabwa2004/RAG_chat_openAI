@@ -1,6 +1,6 @@
 A secure, privacy-focused Retrieval-Augmented Generation (RAG) system designed for local document-based Question-Answering (QA). This application enables users to upload documents, extract relevant text, and retrieve answers to queries using OpenAI's GPT models—all while keeping data local.
 
-**Features**
+# Features:
 
  **Document Upload:**
  
@@ -67,7 +67,7 @@ RAG_chat_openAI/
 - Python 3.8 or later
 - An OpenAI API key
 
-# Installation
+## Installation
 
 1. Clone the repository:
 ```git clone https://github.com/wandabwa2004/RAG_chat_openAI.git```
